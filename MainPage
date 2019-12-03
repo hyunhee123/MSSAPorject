@@ -209,61 +209,49 @@
         <div id="header_nav">
             <div>
                 <ul>
-                    <li>Home</li>
-                    <li>Mail</li>
-                    <li>Answers</li>
-                    <li>Groups</li>
-                    <li>Flickr</li>
-                    <li>Tumblr</li>
-                    <li>Games</li>
-                    <li>Live</li>
-                    <li>Screen</li>
-                    <li>Mobile</li>
-                    <li>More</li>
+                    <li>Welcome</li>
+                    <li>About US</li>
+                    <li>News</li>
+                    <li>Notice</li>
+                    <li>Soccer teams</li>
+                    <li>Forums</li>
+                    <li>Contact US</li>
+
                 </ul>
             </div>
             <div class="firefox">
-                <a href="#none">Upgrade to the new FireFox >></a>
+                <a href="#none">Upgrade >></a>
             </div>
         </div>
         <div id="header_info">
-            <div class="logo"><img sr="yahoo_logo.png" alt="logo missing"/></div>
+            <div class="logo"><img sr="yahoo_logo.png" alt="logo missing" /></div>
             <div class="search">
                 <input type="text" />
                 <button type="submit" class="btn_search"><span class="txt_sw">search web</span></button>
             </div>
             <div class="service">
                 <ul>
-                    <li><a href="#none">My Yahoo</a></li>
-                    <li><a href="#none">Sign In</a></li>
-                    <li><a href="#none">Mail</a></li>
+                    <li><a href="#none">Sign in</a></li>
+                    <li><a href="#none">Login</a></li>
+                    <li><a href="#none">Main</a></li>
                 </ul>
             </div>
         </div>
     </header>
+        
+    
 
     <div id="content">
         <div id="main_nav">
             <ul>
-                <li>Mail</li>
                 <li>News</li>
-                <li>Sports</li>
-                <li>Finance</li>
+                <li>Notice</li>
+                <li>Game Schedule</li>
+                <li>Photo Gallery</li>
+                <li>Video Gallery</li>
                 <li>Weather</li>
-                <li>Autos</li>
-                <li>Screen</li>
-                <li>Dating</li>
-                <li>Shopping</li>
-                <li>Makers</li>
-                <li>Parenting</li>
-                <li>Health</li>
-                <li>Style</li>
-                <li>Beauty</li>
-                <li>Politice</li>
-                <li>Movies</li>
-                <li>Travel</li>
-                <li>Tech</li>
-                <li>TV</li>
+                <li>Sponsors</li>
+               
                 
             </ul>
         </div>
